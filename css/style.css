@@ -18,7 +18,7 @@ body {
     font-smoothing: antialiased !important;
     vertical-align: baseline;
 }
-}
+
 strong, b {
 	font-weight: 600;
 }
@@ -76,8 +76,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-    background: #ff432e;
-    border-color: #ff432e;
+    background: #00aee0;
+    border-color: #00aee0;
     font-size: 16px;
     padding: 8px 15px;
     -webkit-transition: all 0.3s;
@@ -88,8 +88,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-primary:hover {
     background: transparent;
-    border-color: #ff432e;
-    color: #ff432e;
+    border-color: #00aee0;
+    color: #00aee0;
 }
 
 .btn-cancel {
@@ -314,7 +314,7 @@ a.navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     font-size: 40px;
     padding-top: 20px;
-    color: #ff432e !important;
+    color: #00aee0 !important;
 }
 
 .navbar-default .navbar-nav {
@@ -355,9 +355,9 @@ a.navbar-brand {
 
 .navbar-default .navbar-nav > li > a.active, 
 .navbar-default .navbar-nav > li:hover > a {
-	border-top: 2px solid #FF432E;
+	border-top: 2px solid #00aee0;
     color: #fff;
-    background: #FF432E;
+    background: #00aee0;
     //padding: 25px 15px 30px;
 }
 
@@ -372,7 +372,7 @@ a.navbar-brand {
     top: 97%;
     width: 180px;
 	background-color: #fff;
-    border-top: 3px solid #FF432E;
+    border-top: 3px solid #00aee0;
     visibility: hidden;
     z-index: 2;
 	opacity: 0;
@@ -418,13 +418,13 @@ a.navbar-brand {
 
 .dropdown > li:hover > a, 
 .sup-dropdown li:hover > a {
-    background: #FF432E;
+    background: #00aee0;
     color: #fff;
 }
 
 .dropdown  li a.active, 
 .sup-dropdown li a.active {
-	background: #FF432E;
+	background: #00aee0;
     color: #fff;
 }
 
@@ -507,7 +507,7 @@ a.navbar-brand {
 }
 
 .banner .intro-text h1 span {
-    color: #ff432e;
+    color: #00aee0;
 }
 
 .banner .intro-text p {
@@ -883,7 +883,7 @@ iframe {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(255, 67, 46, 0.8);
+    background-color: #00aee0;
     color: #fff;
     padding: 0 2px;
     opacity: 0;
@@ -1146,7 +1146,7 @@ and (min-width : 551px){
 }
 
 .portfolio-item:hover .portfolio-caption {
-    background-color: rgba(255, 67, 46, 0.8);
+    background-color: #00aee0;
     opacity: 1;
     filter: Alpha(Opacity=100);
 }
@@ -1209,7 +1209,7 @@ and (min-width : 551px){
 }
 .services-post:hover a,
 .services-post a.active {
-  background: #ff432e;
+  background: #00aee0;
   color: #ffffff;
   border:2px solid transparent;
 }
@@ -1341,7 +1341,7 @@ and (min-width : 551px){
 }
 
 .footer-address ul li a:hover {
-    color: #FF432E;
+    color: #00aee0;
 }
 
 .latest-tweet .media-body {
@@ -1355,7 +1355,7 @@ and (min-width : 551px){
 
 .latest-tweet h4.media-heading {
     font-size: 10px;
-    color: #FF432E;
+    color: #00aee0;
 }
 
 
@@ -1382,7 +1382,7 @@ and (min-width : 551px){
 }
 
 .footer-social ul.social-list li a:hover {
-    background: #FF432E;
+    background: #00aee0;
     color: #000;
 }
 
@@ -1422,7 +1422,7 @@ and (min-width : 551px){
 }
 
 .copyright-section a:hover {
-    color: #FF432E;
+    color: #00aee0;
 }
 
 .copyright-menu li {
@@ -1441,7 +1441,7 @@ and (min-width : 551px){
 }
 
 .copyright-menu li a:hover {
-    color: #FF432E;
+    color: #00aee0;
 }
 
 /* End Copyright Section */
@@ -1494,7 +1494,7 @@ h1.post-title a {
 }
 
 .item-content-footer .rating .active i {
-    color: #ff432e;
+    color: #00aee0;
 }
 
 
@@ -1542,7 +1542,7 @@ h1.post-title a {
 }
 
 .sidebar .widget-recent-post h4.media-heading a:hover {
-    color: #ff432e;
+    color: #00aee0;
 }
 
 .sidebar .widget-recent-post .media-body li,
@@ -1568,7 +1568,7 @@ h1.post-title a {
 .widget-categories li a.cat-counter {
     margin-left: 20px;
     font-size: 10px;
-    background: #ff432e;
+    background: #00aee0;
     color: #fff;
     padding: 3px;
     border-radius: 4px;
@@ -1595,7 +1595,7 @@ h1.post-title a {
 }
 
 .sidebar .tagcloud a:hover {
-    background: #ff432e;
+    background: #00aee0;
     color: #fff;
 }
 
@@ -1675,7 +1675,7 @@ textarea {
 }
 
 .contact .text-danger {
-    color: #e74c3c;
+    color: #00aee0;
 }
 
 .contact button {
